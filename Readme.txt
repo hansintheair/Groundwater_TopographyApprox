@@ -1,5 +1,5 @@
 I created a script implementing the Jacobi Iterative Method of the Finite Difference Expression of the Laplace Equation 
-during my Master's program for the class Florida Atlantic University LiDAR Remote Sensing Applications (GIS6032C) on 12/4/2015. 
+during my Master's program for the Florida Atlantic University class LiDAR Remote Sensing Applications (GIS6032C) on 12/4/2015. 
 This is the original script I created without significant updates (troubleshooted to make sure it works properly, only tested on ArcMap).
 
 Included:
